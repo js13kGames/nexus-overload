@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - survival
+  - action
 post: https://github.com/PixelJerry/JS13K_Nexus_overload/wiki/Making-of-Nexus-overload
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
